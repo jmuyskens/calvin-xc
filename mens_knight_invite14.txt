@@ -1,0 +1,291 @@
+    1      1    254  Louis Falland         Cornerstone                             25:06.2  3:08/K    SR
+    2    DNS    649  Jonathan Gries        Playmakers Elite (EXB)                  25:12.4  3:09/K
+    3    DNS    676  David VandeBunte      Playmakers Elite (EXB)                  25:22.6  3:10/K
+    4      2    198  Zac Nowicki           Calvin                                  25:28.0  3:11/K    SO
+    5      3     96  Stephen Glinski       Aquinas                                 25:32.2  3:12/K    SR
+    6      4    622  Omero Montalvo        St. Francis (Ill.)                      25:34.2  3:12/K    SO
+    7      5    415  Marcus Hobbs          Indiana Tech                            25:47.2  3:13/K    JR
+    8      6    442  Jordan Henning        Kalamazoo                               25:50.8  3:14/K    24
+    9      7    564  Nathan Rosenbaum      Ohio Northern                           25:51.2  3:14/K    SR
+   10      8     35  Thomas Windle         Adrian                                  25:54.0  3:14/K    SR
+   11      9    199  Andre Otte            Calvin                                  25:55.5  3:14/K    JR
+   12     10    191  Steven Haagsma        Calvin                                  25:57.4  3:15/K    SR
+   13    DNS    674  Brendan Molony        Unattached                              25:59.2  3:15/K
+   14     11    614  Jake Fitzgerald       St. Francis (Ill.)                      26:00.0  3:15/K    SO
+   15     12    634  Stephen Wilder        St. Francis (Ill.)                      26:01.2  3:15/K    SR
+   16     13    152  Joel Hartman          Bethel (Ind.)                           26:04.2  3:16/K    SO
+   17    DNS    656  Philip Spitzer        Unattached                              26:04.4  3:16/K
+   18     14    230  Sam Merriman          Case Western                            26:05.2  3:16/K    FR
+   19     15    196  Jeff Meitler          Calvin                                  26:06.5  3:16/K    JR
+   20     16    551  William Huddleston    Ohio Northern                           26:07.3  3:16/K    JR
+   21     17    106  Jacob Towne           Aquinas                                 26:10.7  3:16/K    JR
+   22     18    611  Brian Blaylock        St. Francis (Ill.)                      26:11.9  3:16/K    FR
+   23     19    200  Andrew Philipose      Calvin                                  26:12.9  3:17/K    FR
+   24     20    184  Ethan Anderson        Calvin                                  26:13.3  3:17/K    JR
+   25     21    235  Tim Travitz           Case Western                            26:13.6  3:17/K    JR
+   26     22     93  Jeff Cherry           Aquinas                                 26:15.1  3:17/K    JR
+   27     23    339  Paul Watts            DePauw                                  26:15.7  3:17/K    JR
+   28     24    233  Tony Spalding         Case Western                            26:19.5  3:17/K    JR
+   29     25    206  Stephen Tubergen      Calvin                                  26:20.3  3:18/K    SR
+   30  (> 7)    203  Andrew Rylaarsdam     Calvin                                  26:21.1  3:18/K    SO
+   31     26    223  Galen Caldwell        Case Western                            26:21.4  3:18/K    SO
+   32     27    383  Dylan Dombi           Heidelberg                              26:21.6  3:18/K    FR
+   33     28    328  Noah Gatwood          DePauw                                  26:24.0  3:18/K    SR
+   34     29    103  Brad Perschbacher     Aquinas                                 26:24.6  3:18/K    SR
+   35  (> 7)    192  Bret Habura           Calvin                                  26:25.6  3:18/K    JR
+   36     30    550  Aaren Hemmelgarn      Ohio Northern                           26:25.7  3:18/K    SO
+   37  (> 7)    188  Mark DeJong           Calvin                                  26:27.0  3:18/K    FR
+   38     31    193  Robbie Hohlman        Calvin-B                                26:29.3  3:19/K    SO
+   39     32    566  Kase Schalois         Ohio Northern                           26:29.8  3:19/K    SO
+   40     33    548  Cully Gordon          Ohio Northern                           26:30.4  3:19/K    SO
+   41     34    549  Andrew Harden         Ohio Northern                           26:30.8  3:19/K    SO
+   42     35    616  Kevin Hardin          St. Francis (Ill.)                      26:31.6  3:19/K    SR
+   43  (> 7)    190  Jonathan Gingrich     Calvin                                  26:32.9  3:19/K    JR
+   44     36    573  Eric Wymer            Ohio Northern                           26:34.9  3:19/K    JR
+   45     37    623  John Niendorf         St. Francis (Ill.)                      26:35.8  3:19/K    SR
+   46     38    122  Brian Brennan         Baldwin Wallace                         26:37.3  3:20/K    SO
+   47     39    101  Cal Morgan            Aquinas                                 26:38.8  3:20/K    FR
+   48     40    234  Lou Takahashi         Case Western                            26:39.3  3:20/K    SO
+   49     41    229  Joe Ledger            Case Western                            26:40.5  3:20/K    SO
+   50     42     20  Matthew Konieczki     Adrian                                  26:40.6  3:20/K    SR
+   51     43    409  Dylan Dominello       Indiana Tech                            26:41.0  3:20/K    SO
+   52     44    626  Matt Peacock          St. Francis (Ill.)                      26:42.7  3:20/K    JR
+   53     45    320  Will Bond             DePauw                                  26:44.6  3:21/K    SR
+   54     46     29  Dominick Reed         Adrian                                  26:45.4  3:21/K    SR
+   55    DNS    648  Joe Davis             Unattached                              26:45.5  3:21/K
+   56     47     58  Adam Sanchez          Alma                                    26:46.4  3:21/K    23
+   57    DNS    655  Donald Richmond       Playmakers Elite (EXB)                  26:47.2  3:21/K
+   58     48    504  Alec Smith            Madonna                                 26:49.4  3:21/K    23
+   59  (> 7)    189  Josh Ferguson         Calvin                                  26:49.8  3:21/K    SR
+   60     49     98  Grant Gunneson        Aquinas                                 26:50.2  3:21/K    SR
+   61     50    107  Thomas Willet         Aquinas                                 26:50.4  3:21/K    SO
+   62     51    121  Greg Blevins          Baldwin Wallace                         26:51.7  3:21/K    SR
+   63     52    273  Cam Magro             Davenport                               26:52.9  3:22/K    SR
+   64  (> 7)    613  Reis DeSantis         St. Francis (Ill.)                      26:54.1  3:22/K    FR
+   65     53    473  John Derry            Lake Forest                             26:56.4  3:22/K    SO
+   66     54    185  Nick Aukerman         Calvin-B                                26:58.4  3:22/K    SO
+   67    DNS    651  Eric Loveland         Playmakers Elite (EXB)                  26:58.5  3:22/K
+   68     55    153  Andres Herbert        Bethel (Ind.)                           27:00.9  3:23/K    SO
+   69     56    268  Cameron Bredice       Davenport                               27:01.2  3:23/K    FR
+   70     57    416  Zack Johnson          Indiana Tech                            27:02.9  3:23/K    JR
+   71     58    423  Brenden Zoltek        Indiana Tech                            27:05.5  3:23/K    JR
+   72     59    149  Jordan Annis          Bethel (Ind.)                           27:08.6  3:24/K    SO
+   73     60    391  Isaac Kuntz           Heidelberg                              27:09.0  3:24/K    FR
+   74  (> 7)    543  Robert Borger         Ohio Northern                           27:11.6  3:24/K    FR
+   75  (> 7)    619  Brandon Ivins         St. Francis (Ill.)                      27:13.7  3:24/K    SO
+   76  (> 7)    102  Shay Osytn            Aquinas                                 27:14.4  3:24/K    SO
+   77     61    421  Tanner Wall           Indiana Tech                            27:15.5  3:24/K    JR
+   78  (> 7)    618  Mateo Hernandez       St. Francis (Ill.)                      27:15.6  3:24/K    FR
+   79  (> 7)    207  Nathan VanHaitsma     Calvin                                  27:15.8  3:24/K    SO
+   80     62     33  Conner Stevons        Adrian                                  27:16.2  3:25/K    SO
+   81     63    201  Matt Plantinga        Calvin-B                                27:16.3  3:25/K    SO
+   82  (> 7)    547  Tom Gerberich         Ohio Northern                           27:17.7  3:25/K    SR
+   83     64    125  Brady Jeffers         Baldwin Wallace                         27:18.5  3:25/K    FR
+   84     65    485  Jonathan Stern        Lake Forest                             27:18.7  3:25/K    FR
+   85     66    269  Dustin Brummel        Davenport                               27:20.1  3:25/K    JR
+   86     67    227  Bryan Kelly           Case Western                            27:21.9  3:25/K    SO
+   87     68    256  Jared Holmberg        Cornerstone                             27:22.7  3:25/K    SR
+   88  (> 7)    204  Jonathan Schaap       Calvin                                  27:23.4  3:25/K    SO
+   89  (> 7)    570  Ryan Valentine        Ohio Northern                           27:24.7  3:26/K    SR
+   90     69    194  Jordan Kramer         Calvin-B                                27:25.5  3:26/K    SO
+   91     70    414  Evan Harney           Indiana Tech                            27:26.5  3:26/K    FR
+   92  (> 7)    231  Austin Olshavsky      Case Western                            27:26.7  3:26/K    JR
+   93     71     25  Daniel Malcolm        Adrian                                  27:27.0  3:26/K    SO
+   94     72    417  Nate Kimble           Indiana Tech                            27:27.8  3:26/K    SO
+   95  (> 7)     90  Geoff Albaugh         Aquinas                                 27:28.4  3:26/K    SR
+   96  (> 7)    410  Cody Dyer             Indiana Tech                            27:28.8  3:26/K    SO
+   97     73    386  Zach Flint            Heidelberg                              27:29.0  3:26/K    JR
+   98     74    260  Kevin Vroegh          Cornerstone                             27:30.1  3:26/K    FR
+   99     75    205  Mason Swartz          Calvin-B                                27:32.4  3:27/K    SO
+  100  (> 7)    225  Aidan DeSanto         Case Western                            27:34.6  3:27/K    FR
+  101     76    396  Cameron Weaks         Heidelberg                              27:35.1  3:27/K    FR
+  102     77    390  Nick Jones            Heidelberg                              27:35.3  3:27/K    FR
+  103  (> 7)    422  John Wamhoff          Indiana Tech                            27:36.0  3:27/K    FR
+  104     78    331  Chris Lowry           DePauw                                  27:36.1  3:27/K    FR
+  105     79     26  Andrew Mangiapane     Adrian                                  27:36.8  3:27/K    SR
+  106  (> 7)    625  Frank Pasqua          St. Francis (Ill.)                      27:37.8  3:27/K    SO
+  107  (> 7)    226  Gilad Doron           Case Western                            27:38.8  3:27/K    JR
+  108  (> 7)    630  Anthony Santillo      St. Francis (Ill.)                      27:39.1  3:27/K    SO
+  109     80    253  Brent Dunn            Cornerstone                             27:39.6  3:27/K    FR
+  110  (> 7)    104  Stephen Pfahler       Aquinas                                 27:40.5  3:28/K    FR
+  111  (> 7)    546  Matthew Ernstes       Ohio Northern                           27:42.2  3:28/K    JR
+  112     81    202  Landon Potts          Calvin-B                                27:42.3  3:28/K    JR
+  113  (> 7)    224  Ben Davis             Case Western                            27:42.5  3:28/K    JR
+  114     82     34  Nathan Waite          Adrian                                  27:43.2  3:28/K    JR
+  115     83    155  Logan Kimmel          Bethel (Ind.)                           27:45.7  3:28/K    SR
+  116     84    151  AJ Fraser             Bethel (Ind.)                           27:46.2  3:28/K    SR
+  117  (> 7)    195  Nick McKee            Calvin                                  27:46.3  3:28/K    SR
+  118  (> 7)    100  Devon Joslin          Aquinas                                 27:48.8  3:29/K    JR
+  119  (> 7)    554  Andrew Kurtz          Ohio Northern                           27:49.7  3:29/K    SO
+  120     85    340  Brad Wise             DePauw                                  27:50.2  3:29/K    SO
+  121     86    160  Taylor Neff           Bethel (Ind.)                           27:50.8  3:29/K    FR
+  122  (> 7)    236  Ben Whitman           Case Western                            27:51.3  3:29/K    FR
+  123     87    208  Hendrik Vermeulen     Calvin-B                                27:52.5  3:29/K    FR
+  124  (> 7)     97  Steven Griffith       Aquinas                                 27:52.5  3:29/K    FR
+  125     88    162  Jarrett Walbolt       Bethel (Ind.)                           27:54.7  3:29/K    FR
+  126    DNS    644  Josh Risner           UNA-Aquinas                             27:54.7  3:29/K
+  127  (> 7)    633  Jesse Unzueta         St. Francis (Ill.)                      27:55.9  3:29/K    SO
+  128     89    330  Kevin Kenney          DePauw                                  27:56.0  3:30/K    FR
+  129     90    285  Colin Krick           Defiance                                27:57.0  3:30/K    SO
+  130     91    338  Josse Smith           DePauw                                  27:59.2  3:30/K    FR
+  131  (> 7)    406  Matt Adair            Indiana Tech                            27:59.8  3:30/K    JR
+  132     92    474  Rocco DiMatteo        Lake Forest                             28:00.2  3:30/K    SO
+  133  (> 7)    420  Matt Rouwhorst        Indiana Tech                            28:00.9  3:30/K    JR
+  134    DNS    652  Philip Merrell        Unattached                              28:01.9  3:30/K
+  135  (> 7)    552  Tyler Kennedy         Ohio Northern                           28:03.5  3:30/K    FR
+  136    DNS    675  Alexander Pollack     Unattached                              28:03.5  3:30/K
+  137     93    271  Brandon George        Davenport                               28:04.4  3:31/K    JR
+  138     94    501  Ahron Gunn            Madonna                                 28:05.8  3:31/K    23
+  139  (> 7)     94  Adam Cichon           Aquinas                                 28:06.2  3:31/K    FR
+  140     95    394  Jesse Rudolph         Heidelberg                              28:07.2  3:31/K    SO
+  141  (> 7)    565  Cameron Rusnak        Ohio Northern                           28:07.7  3:31/K    SO
+  142  (> 7)    105  Nicholas Tarsa        Aquinas                                 28:08.0  3:31/K    FR
+  143  (> 7)    624  Joseph Parochetti     St. Francis (Ill.)                      28:08.0  3:31/K    FR
+  144     96    274  Mason Przybysz        Davenport                               28:09.6  3:31/K    JR
+  145     97    275  Travis Sisovsky       Davenport                               28:09.6  3:31/K    SO
+  146     98     51  Zane Berlanga         Alma                                    28:09.7  3:31/K    21
+  147  (> 7)    612  Gabe Calvillo         St. Francis (Ill.)                      28:10.0  3:31/K    SO
+  148  (> 7)     91  Jesus Alvarado        Aquinas                                 28:13.7  3:32/K    SR
+  149  (> 7)    558  Matt Molinaro         Ohio Northern                           28:15.3  3:32/K    FR
+  150  (> 7)    337  Pierce Sheehan        DePauw                                  28:15.9  3:32/K    FR
+  151  (> 7)    628  John Principato       St. Francis (Ill.)                      28:17.2  3:32/K    FR
+  152  (> 7)    563  Michael Potter        Ohio Northern                           28:17.8  3:32/K    JR
+  153  (> 7)    615  Kevin Hanlon          St. Francis (Ill.)                      28:18.3  3:32/K    JR
+  154  (> 7)    545  Eric Collins          Ohio Northern                           28:18.5  3:32/K    SO
+  155  (> 7)    631  Chirs Santillo        St. Francis (Ill.)                      28:19.4  3:32/K    SO
+  156     99    250  Jacob Benson          Cornerstone                             28:19.5  3:32/K    SO
+  157  (> 7)    232  Phillip Scheanon      Case Western                            28:19.5  3:32/K    SO
+  158  (> 7)    571  Kyle Wagner           Ohio Northern                           28:19.8  3:32/K    SR
+  159    100    387  Dom Frey              Heidelberg                              28:21.9  3:33/K    FR
+  160    101    513  alex krasuski         Michigan-Dearborn                       28:22.5  3:33/K    FR
+  161  (> 7)    567  Daniel Sowa           Ohio Northern                           28:23.5  3:33/K    JR
+  162  (> 7)    187  Nathan Brookhouse     Calvin-B                                28:24.2  3:33/K    FR
+  163  (> 7)    617  Kristian Hernandez    St. Francis (Ill.)                      28:27.0  3:33/K    FR
+  164  (> 7)    324  CJ Copeland           DePauw                                  28:28.4  3:34/K    SO
+  165    102    251  Trevor Curtis         Cornerstone                             28:29.0  3:34/K    FR
+  166    103    443  Andrew Kaylor         Kalamazoo                               28:29.9  3:34/K    22
+  167  (> 7)    620  Billy Klebenow        St. Francis (Ill.)                      28:30.9  3:34/K    JR
+  168  (> 7)     16  Justin Davenport      Adrian                                  28:31.2  3:34/K    FR
+  169    104    516  Ryan Pickell          Michigan-Dearborn                       28:32.0  3:34/K
+  170  (> 7)    629  Aaron Sanchez         St. Francis (Ill.)                      28:35.8  3:34/K    FR
+  171  (> 7)    384  Tim Faiken            Heidelberg                              28:36.0  3:35/K    FR
+  172  (> 7)    326  Jim Easterhouse       DePauw                                  28:36.1  3:35/K    SR
+  173  (> 7)    557  Ian McKee             Ohio Northern                           28:37.1  3:35/K    SO
+  174  (> 7)    163  Collin Wiersema       Bethel (Ind.)                           28:37.2  3:35/K    FR
+  175  (> 7)     30  Nathan Schneider      Adrian                                  28:39.3  3:35/K    FR
+  176  (> 7)    627  Jorge Pichardo        St. Francis (Ill.)                      28:40.3  3:35/K    FR
+  177    105    471  Joseph Bortolotti     Lake Forest                             28:41.0  3:35/K    SO
+  178  (> 7)    228  Nick Knorz            Case Western                            28:42.0  3:35/K    FR
+  179  (> 7)    334  Brian Myers           DePauw                                  28:49.3  3:36/K    JR
+  180  (> 7)    381  De Churchya           Heidelberg                              28:51.7  3:36/K    SO
+  181  (> 7)    569  Ian Trau              Ohio Northern                           28:53.2  3:37/K    JR
+  182  (> 7)    392  Brandon McNeil        Heidelberg                              28:53.8  3:37/K    SO
+  183  (> 7)    568  Dan Steigerwald       Ohio Northern                           28:54.8  3:37/K    JR
+  184    106     52  Charles Clark         Alma                                    28:54.8  3:37/K    22
+  185  (> 7)     99  Luke Hawley           Aquinas                                 28:55.8  3:37/K    SO
+  186  (> 7)    389  Sean Humphreys        Heidelberg                              28:58.8  3:37/K    FR
+  187    107    440  David Demarest        Kalamazoo                               29:01.6  3:38/K    22
+  188  (> 7)    542  Adam Berry            Ohio Northern                           29:02.6  3:38/K    SO
+  189  (> 7)    412  Matt Frisby           Indiana Tech                            29:04.7  3:38/K    SR
+  190  (> 7)    329  Jack Harbaugh         DePauw                                  29:06.4  3:38/K    FR
+  191  (> 7)     95  Grant Cook            Aquinas                                 29:06.5  3:38/K    SO
+  192    DNS    646  Tristan Rudolph       UNA-Aquinas                             29:08.9  3:39/K
+  193  (> 7)    559  Michael Murray        Ohio Northern                           29:09.7  3:39/K    FR
+  194  (> 7)    156  Joshua Marshall       Bethel (Ind.)                           29:10.4  3:39/K    SR
+  195  (> 7)    572  Jonathan Wherry       Ohio Northern                           29:13.5  3:39/K    JR
+  196    108    365  Brett Slayton         Grand Rapids Community                  29:14.5  3:39/K    21
+  197  (> 7)    560  Evan Murtha           Ohio Northern                           29:15.9  3:39/K    SO
+  198  (> 7)     32  Nick Sheridan         Adrian                                  29:16.2  3:40/K    SO
+  199    109    289  Diego Sanchez         Defiance                                29:17.3  3:40/K    FR
+  200    110    128  Evan Milovich         Baldwin Wallace                         29:17.6  3:40/K    FR
+  201  (> 7)    336  Nathaniel Reed        DePauw                                  29:17.8  3:40/K    FR
+  202  (> 7)     92  Jimmy Birney          Aquinas                                 29:18.5  3:40/K    FR
+  203  (> 7)    561  Joseph Muscarella     Ohio Northern                           29:18.9  3:40/K    SO
+  204    111    441  Cory Gyulveszi        Kalamazoo                               29:19.9  3:40/K    22
+  205    112    287  Zach Roush            Defiance                                29:20.4  3:40/K    SO
+  206    113    446  Connor Vogt           Kalamazoo                               29:22.3  3:40/K    21
+  207  (> 7)     14  David Comiska         Adrian                                  29:26.0  3:41/K    JR
+  208  (> 7)     27  Max McIlroy           Adrian                                  29:28.1  3:41/K    JR
+  209    114     53  Nick Fox              Alma                                    29:28.9  3:41/K    22
+  210    115    505  Nathaniel Theobald    Madonna                                 29:29.1  3:41/K    24
+  211  (> 7)    333  Brian Mincks          DePauw                                  29:33.8  3:42/K    JR
+  212  (> 7)    161  Ethan Trombley        Bethel (Ind.)                           29:35.2  3:42/K    SO
+  213    116    290  Andrew Senecal        Defiance                                29:38.1  3:42/K    SR
+  214    117    517  Nick Williamson       Michigan-Dearborn                       29:40.4  3:43/K
+  215    118    258  Garrett Tremaine      Cornerstone                             29:42.2  3:43/K    FR
+  216    DNS    645  Michael Robbins       UNA-Aquinas                             29:43.3  3:43/K
+  217    119     61  Ryan Weaver           Alma                                    29:44.1  3:43/K    23
+  218    120    515  Sam Parks             Michigan-Dearborn                       29:46.7  3:43/K    JR
+  219    121     56  Kristopher Maurer     Alma                                    29:51.0  3:44/K    24
+  220  (> 7)    418  Aaron Kimbrell        Indiana Tech                            29:56.0  3:45/K    SR
+  221    DNS    647  Kyle Sousley          UNA-Aquinas                             29:57.3  3:45/K
+  222    122    514  Quinn Osgood          Michigan-Dearborn                       30:02.6  3:45/K    SR
+  223  (> 7)    321  Ben Booher            DePauw                                  30:07.0  3:46/K    FR
+  224  (> 7)     18  Aaron Ellis           Adrian                                  30:08.8  3:46/K    FR
+  225    123    364  Rechy Rodriguez       Grand Rapids Community                  30:10.1  3:46/K    21
+  226    124    286  Jacob Rindler         Defiance                                30:10.7  3:46/K    SO
+  227    125    500  Seth Globke           Madonna                                 30:10.8  3:46/K    22
+  228    DNS    498  Stephen Fenech        Unattached                              30:11.8  3:46/K    21
+  229  (> 7)     15  Zeke Dassay           Adrian                                  30:12.9  3:47/K    FR
+  230    126    124  Alex Fuhrmann         Baldwin Wallace                         30:16.4  3:47/K    JR
+  231  (> 7)    378  Brad Bannister        Heidelberg                              30:20.0  3:48/K    FR
+  232    127    284  Jaymes Cole           Defiance                                30:20.5  3:48/K    FR
+  233    128    270  Tanner Droste         Davenport                               30:22.9  3:48/K    FR
+  234  (> 7)    186  Matthew Boelens       Calvin-B                                30:24.5  3:48/K    FR
+  235  (> 7)    419  Brian Larabel         Indiana Tech                            30:31.2  3:49/K    JR
+  236    129     54  Lex Hollenbeck        Alma                                    30:33.6  3:49/K    22
+  237    130    126  Aaron Long            Baldwin Wallace                         30:35.8  3:49/K    JR
+  238    131    130  Justin Swords         Baldwin Wallace                         30:36.6  3:50/K    FR
+  239  (> 7)    541  Nathan Barchalk       Ohio Northern                           30:36.9  3:50/K    SR
+  240    DNS    643  Eric Cichon           UNA-Aquinas                             30:39.4  3:50/K
+  241  (> 7)    131  Dylan Tanner          Baldwin Wallace                         30:40.7  3:50/K    FR
+  242  (> 7)    157  Jacob Massengale      Bethel (Ind.)                           30:42.5  3:50/K    SR
+  243  (> 7)    159  Christopher Navetta   Bethel (Ind.)                           30:42.6  3:50/K    FR
+  244  (> 7)    335  Leland Nelson         DePauw                                  30:49.3  3:51/K    FR
+  245  (> 7)    259  Nathan Vanderwall     Cornerstone                             30:58.7  3:52/K    SR
+  246  (> 7)     59  Calvin Scott          Alma                                    31:00.2  3:53/K    21
+  247  (> 7)    388  Aaron Hellman         Heidelberg                              31:01.2  3:53/K    FR
+  248    132    360  Carlos Menjivar       Grand Rapids Community                  31:05.0  3:53/K    21
+  249    DNS    356  Tyler Fisk            Una - GRCC                              31:06.5  3:53/K    22
+  250  (> 7)    327  Jack Evans            DePauw                                  31:07.9  3:53/K    SO
+  251    133    470  Tanner Bednar         Lake Forest                             31:10.3  3:54/K    SO
+  252  (> 7)     31  Robert Schultz        Adrian                                  31:15.0  3:54/K    JR
+  253  (> 7)    197  Marshall Morehead     Calvin-B                                31:17.3  3:55/K    FR
+  254    134    499  Bryan Giczewski       Madonna                                 31:17.4  3:55/K    21
+  255  (> 7)    322  Brad Burch            DePauw                                  31:20.6  3:55/K    SO
+  256    135    480  Adnan Meskic          Lake Forest                             31:23.0  3:55/K    JR
+  257  (> 7)    325  Alec Da Silveira      DePauw                                  31:25.7  3:56/K    FR
+  258  (> 7)    272  Justin Jewell         Davenport                               31:27.8  3:56/K    SR
+  259  (> 7)     28  Kyle McLouth          Adrian                                  31:31.5  3:56/K    SO
+  260  (> 7)     57  Jamey Paron           Alma                                    31:32.9  3:57/K    23
+  261  (> 7)    154  Travis Jordan         Bethel (Ind.)                           31:38.2  3:57/K    FR
+  262    136    445  Paul Tshele           Kalamazoo                               31:49.0  3:59/K    24
+  263    137    486  Jacob Troy            Lake Forest                             31:49.6  3:59/K    FR
+  264  (> 7)    377  Garry Armstrong       Heidelberg                              31:49.8  3:59/K    FR
+  265    138    363  Elijah Potter         Grand Rapids Community                  31:52.4  3:59/K    21
+  266  (> 7)    555  Dustin Lumadue        Ohio Northern                           32:05.0  4:01/K    FR
+  267    139    503  Erick Roth            Madonna                                 32:07.9  4:01/K    24
+  268    140    358  Giancarlo Hernandez   Grand Rapids Community                  32:08.2  4:01/K    21
+  269  (< 5)    680  Campbell Mike         Glen Oaks CC                            32:11.3  4:01/K    fr
+  270  (> 7)    132  Jason Young           Baldwin Wallace                         32:23.8  4:03/K    JR
+  271  (> 7)    483  Austin Rosenwinkel    Lake Forest                             32:28.4  4:04/K    SO
+  272  (< 5)    679  Clementz Matt         Glen Oaks CC                            32:32.4  4:04/K    FR
+  273  (> 7)    556  Alec Lunney           Ohio Northern                           32:35.0  4:04/K    FR
+  274    141    362  Caleb Mounts          Grand Rapids Community                  32:35.5  4:04/K    21
+  275  (> 7)     21  Harrison Lange        Adrian                                  32:37.3  4:05/K    FR
+  276    142    361  Jarquell Mitchel      Grand Rapids Community                  32:45.4  4:06/K    21
+  277    143    502  Tommy Martin          Madonna                                 32:47.2  4:06/K    22
+  278  (> 7)    129  Tate Stoll            Baldwin Wallace                         32:49.5  4:06/K    SO
+  279  (> 7)    408  James Dillinger       Indiana Tech                            32:53.6  4:07/K    FR
+  280  (> 7)    553  Greg Krasnoschlik     Ohio Northern                           32:57.3  4:07/K    SR
+  281  (> 7)     55  Nick Kiessel          Alma                                    33:14.6  4:09/K    23
+  282  (> 7)     17  Rob DeSantis          Adrian                                  33:17.7  4:10/K    FR
+  283  (> 7)     19  Tristen Epling        Adrian                                  33:19.1  4:10/K    FR
+  284  (> 7)    123  Seth Duncan           Baldwin Wallace                         33:31.1  4:11/K    SO
+  285  (< 5)    450  Kevin Kruizenga       Kuyper                                  33:47.0  4:13/K    JR
+  286  (< 5)    451  Grant Schlinz         Kuyper                                  34:52.0  4:22/K    SO
+  287  (> 7)    478  Paul Jones            Lake Forest                             35:35.6  4:27/K    FR
+  288  (> 7)    477  Patrick Hilton        Lake Forest                             38:01.6  4:45/K    FR
+  289  (< 5)    348  Trenton Loomis        Grace Bible (MI)                        38:22.9  4:48/K    22
+  290  (> 7)    355  Tyson DeWald          Grand Rapids Community                  38:39.9  4:50/K    21
+  291  (< 5)    347  Nicolas Brown         Grace Bible (MI)                        39:41.3  4:58/K    21

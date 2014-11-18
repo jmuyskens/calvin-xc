@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<script src="bower_components/d3/d3.min.js"></script>
+	<script src="bower_components/underscore/underscore-min.js"></script>
+	<style>
+	  rect {
+		stroke: none;
+		fill: #ccc;
+	  }
+
+	  .highlighted rect {
+	  	fill: #aaa;
+	  }
+
+	  .selected rect {
+	  	fill: maroon;
+	  }
+
+	  .runners text {
+	  	display: none;
+	  }
+
+	  .runners.selected text {
+	  	display: inherit;
+	  }
+
+	  .teammates rect {
+		stroke: white;
+	  }
+
+	  .axis path, line {
+	  	fill: none;
+		stroke: black;
+	  }
+
+	</style>
+</head>
+<body>
+<script src="xc.js"></script>
+</body>
+</html>
